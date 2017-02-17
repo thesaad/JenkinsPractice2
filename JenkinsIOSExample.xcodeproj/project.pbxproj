@@ -202,7 +202,7 @@
 			attributes = {
 				TargetAttributes = {
 					BC22503813B2BA940006D350 = {
-						DevelopmentTeam = S3V7J7942L;
+						DevelopmentTeam = 8E223TFGFR;
 					};
 				};
 			};
@@ -365,12 +365,12 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = S3V7J7942L;
+				DEVELOPMENT_TEAM = 8E223TFGFR;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsIOSExample/JenkinsIOSExample-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsIOSExample/JenkinsIOSExample-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.salmvp.ssi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssi.salmvp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -381,11 +381,11 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = S3V7J7942L;
+				DEVELOPMENT_TEAM = 8E223TFGFR;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsIOSExample/JenkinsIOSExample-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsIOSExample/JenkinsIOSExample-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.salmvp.ssi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssi.salmvp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
