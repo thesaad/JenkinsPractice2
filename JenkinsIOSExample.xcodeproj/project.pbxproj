@@ -203,6 +203,7 @@
 				TargetAttributes = {
 					BC22503813B2BA940006D350 = {
 						DevelopmentTeam = 8E223TFGFR;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -372,6 +373,8 @@
 				INFOPLIST_FILE = "JenkinsIOSExample/JenkinsIOSExample-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ssi.salmvp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "97ed2cb8-17d9-435d-87c4-3c283eef82b7";
+				PROVISIONING_PROFILE_SPECIFIER = "SALMVP-Profile-Dev";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -387,6 +390,8 @@
 				INFOPLIST_FILE = "JenkinsIOSExample/JenkinsIOSExample-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ssi.salmvp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "97ed2cb8-17d9-435d-87c4-3c283eef82b7";
+				PROVISIONING_PROFILE_SPECIFIER = "SALMVP-Profile-Dev";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
